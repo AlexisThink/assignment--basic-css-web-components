@@ -1,0 +1,66 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p{
+	margin: 0;
+	padding: 0;
+}
+
+.contenedor{
+	margin: 0 auto;	
+}
+
+.textos{
+	text-align: center;
+	padding: 15px;
+	display: block;
+}
+
+.textos p{
+	width: auto;
+	display: block;
+	margin: 0 auto;
+}
+
+.one{
+	text-transform: uppercase;
+}
+.two{
+	color: gray;
+}
+
+/*----------*/
+
+.subcontenedor{
+	display: inline-block;
+	width: 100%;
+	
+}
+
+.navegacion{
+	display: inline-block;
+	width: 70%;
+
+	padding: 0 auto;
+}
+
+.navegacion p{
+	width: auto;
+}
+
+.option{
+	height: 25px;
+	display: inline-block;
+	padding: 0 20px;
+	background-color: rgb(205,92,92);
+	color: white;
+}
+
+.option p{
+	margin-top: 5px;
+}

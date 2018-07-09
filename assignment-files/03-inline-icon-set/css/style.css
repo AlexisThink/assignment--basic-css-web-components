@@ -1,0 +1,32 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	font-family: sans-serif;
+}
+
+.social{
+	font-size: 11px;
+}
+
+
+.contenedor{
+	display: inline;
+	width: 600px;
+}
+
+.contenedor{
+	padding-bottom: 10px;
+}
+
+.contenedor img{
+	width: 30px;
+	height: 30px;
+}
+
+.line{
+	width: 100%;
+	height: 2px;
+	background-color: black;
+}
